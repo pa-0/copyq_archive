@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: copyq_archive
+Version: 0.0.1
+Summary: Archive CopyQ items to a SQLite database
+Author: Alex DeLorenzo <alex@alexdelorenzo.dev
+Requires-Python: >=3.12
+License-File: LICENSE

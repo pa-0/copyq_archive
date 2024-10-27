@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+copyq_archive/__init__.py
+copyq_archive/__main__.py
+copyq_archive/archive.py
+copyq_archive.egg-info/PKG-INFO
+copyq_archive.egg-info/SOURCES.txt
+copyq_archive.egg-info/dependency_links.txt
+copyq_archive.egg-info/top_level.txt
+copyq_archive.egg-info/zip-safe
